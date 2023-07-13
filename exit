@@ -1,0 +1,14 @@
+[33mcommit 03ccc18d21258b2a587f335dd9811ca9551f1df8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Amy Saeed <ammythecreator@gmail.com>
+Date:   Thu Jul 13 13:18:17 2023 -0700
+
+    New changes
+
+[1mdiff --git a/test.text b/test.text[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d0e08a8[m
+[1m--- /dev/null[m
+[1m+++ b/test.text[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32mhello[m
+[32m+[m[32mhi[m
